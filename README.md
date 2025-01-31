@@ -22,3 +22,7 @@ This is a Python GUI application built using PySide2 and Matplotlib. It allows u
 
 ![image](https://github.com/user-attachments/assets/d498b76b-69ac-4d17-9a5d-8e270a2dc89d)
 
+## Test Snapshots
+![image](https://github.com/user-attachments/assets/49658f03-d196-4e63-a929-9991318688fe)
+
+
